@@ -16,8 +16,11 @@ It determines whether a sentence is closer to the Thinking (T) type, Feeling (F)
 ***2. Our Term Project Progress***
 
      (1) Collecting Data
+          - data : It includes the sentence data file used and an explanation of how the data was collected. 
      (2) Training the Classification Model
+          - classifier_model / model_generation_code.py / test.py / test_cpuVersion.py
      (3) Developing the CLI Program
+          - cli_mbti_classifier.py
 
 <br>
 
