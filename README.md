@@ -32,6 +32,33 @@ It determines whether a sentence is closer to the Thinking (T) type, Feeling (F)
 
 ***4. Execution Instruction***  
 
+(1) Install `transformers` and `pytorch`.
+
+(2) Download the files inside the `classifier_model` folder. (These are uploaded in our repository.)
+
+
+     classifier_model contents:
+        - `config.json`
+        - `model.safetensors` 
+           -> Download it from the link and place it in the folder.
+        - `special_tokens_map.json`
+        - `tokenizer.json`
+        - `tokenizer_config.json`
+        - `vocab.txt`
+
+(3) Run the cli_mbti_classifier.py.
+
+(4) Set the path to the  "MBTI_T_F_classifier/classifier_model" in the `saved_path`.
+
+(5) Enter the text you want to test.
+
+(6) Check the results after execution:
+
+     The result shows which type it is associated with and the corresponding percentage.
+     - result: F (xx.xx%)
+     - result: T (xx.xx%)
+     - result: NO (xx.xx%)
+
 <br>
 
 ***5. Examples and Execution Screenchots***
