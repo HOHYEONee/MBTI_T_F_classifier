@@ -10,11 +10,11 @@ It determines whether a sentence is closer to the Thinking (T) type, Feeling (F)
 
 ***2. Our Term Project Progress***
 
-(1) Collecting Data
+  (1) Collecting Data
 
-(2) Training the Classification Model
+  (2) Training the Classification Model
 
-(3) Developing the CLI Program
+  (3) Developing the CLI Program
 
 <br>
 
