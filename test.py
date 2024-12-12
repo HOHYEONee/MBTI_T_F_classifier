@@ -1,7 +1,7 @@
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
 
 # 저장된 모델 경로
-saved_path = "./mbti_t_f_classifier_04"
+saved_path = "./classifier_model"
 
 # 모델과 토크나이저 로드
 tokenizer = AutoTokenizer.from_pretrained(saved_path)
