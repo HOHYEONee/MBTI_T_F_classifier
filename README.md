@@ -48,7 +48,7 @@ It determines whether a sentence is closer to the Thinking (T) type, Feeling (F)
 
 (3) Run the cli_mbti_classifier.py.
 
-(4) Set the path to the  "MBTI_T_F_classifier/classifier_model" in the `saved_path`.
+(4) Set the path of `classifier_model` in `saved_path`.
 
 (5) Enter the text you want to test.
 
