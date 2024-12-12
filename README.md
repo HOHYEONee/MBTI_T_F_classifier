@@ -62,6 +62,7 @@ It determines whether a sentence is closer to the Thinking (T) type, Feeling (F)
 <br>
 
 ***5. Execution Screenshot (Example)***
+
 ![Execution Screenshot](./image/execution_screenshot.png)
 
 <br>
