@@ -28,13 +28,16 @@ It determines whether a sentence is closer to the Thinking (T) type, Feeling (F)
 - Transformers (version: 4.46.3)
 - Torch (version: 2.5.1+cu121 or 2.5.1+cpu)
 
-pip install transformers
-pip install transformers==4.46.3
+      Installation Guide
 
-(CPU version)
-pip install torch==2.5.1+cu121 torchvision==0.16.1+cu121 torchaudio==2.6.1+cu121 -f https://download.pytorch.org/whl/torch_stable.html
-(GPU - CUDA 12.1 version)
-pip install torch==2.5.1+cpu torchvision==0.16.1+cpu torchaudio==2.6.1+cpu -f https://download.pytorch.org/whl/torch_stable.html
+      (1) transformers
+      - pip install transformers
+      - pip install transformers==4.46.3
+      (2) torch
+      - (CPU version)
+      pip install torch==2.5.1+cu121 torchvision==0.16.1+cu121 torchaudio==2.6.1+cu121 -f https://download.pytorch.org/whl/torch_stable.html
+      - (GPU - CUDA 12.1 version)
+      pip install torch==2.5.1+cpu torchvision==0.16.1+cpu torchaudio==2.6.1+cpu -f https://download.pytorch.org/whl/torch_stable.html
 
 <br>
 
